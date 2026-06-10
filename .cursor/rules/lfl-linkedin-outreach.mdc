@@ -1,0 +1,21 @@
+---
+description: Personalisierte LinkedIn-Mails (DE) — Recherche, LFL-Fit, Outreach-Ordner
+globs:
+  - 04_Outreach/**
+alwaysApply: false
+---
+
+# LinkedIn-Outreach Workflow (LoopForgeLab)
+
+Wenn der Nutzer **LinkedIn-Outreach**, **Vernetzungsanfrage**, **Follow-up LinkedIn** oder einen Kontakt unter `04_Outreach/` erwähnt:
+
+1. Lies `04_Outreach/Workflow/08_LinkedIn_Personalized/WORKFLOW.md` und `…/SYSTEM_PROMPT_LinkedIn.md` (Abschnitt PROMPT).
+2. Führe Intake durch (Person, Firma, Rolle, mailtyp: connection|followup).
+3. Lege Ordner `04_Outreach/Kampagnen/YYYYMMDD_Nachname_Firma/` an (ggf. `04_Outreach/Workflow/08_LinkedIn_Personalized/scripts/scaffold_outreach.py`).
+4. Recherchiere intern + Web; dokumentiere Quellen in `04_sources.bib.md`.
+5. Erzeuge alle Artefakte **auf Deutsch**.
+6. **Follow-up:** kein Calendly in erster DM (Nutzer-Regel).
+7. **Connection:** max. 300 Zeichen, kein Betreff.
+8. Stoppe bei `status: review` — warte auf Nutzer-Freigabe.
+
+Pflichtquellen: `01_Quellen/verbindlich/LFL_Teaser_Briefing_20260529.yaml`, `01_Quellen/extrahiert/LFL_Machinery_Sales_Intelligence_v02.md`, `04_Outreach/Playbooks/08_Kundensprache_Discovery_Playbook.md`, `04_Outreach/Playbooks/10_LinkedIn_Templates_Touch0-4_nach_Rolle.md`.

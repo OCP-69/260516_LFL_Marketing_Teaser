@@ -1,0 +1,1017 @@
+[
+  {
+    "nr": 1,
+    "name": "Marco Gebhardt",
+    "email": "marco.gebhardt@gebhardt-group.com",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "marco.gebhardt@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "m.gebhardt@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "marcogebhardt@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "marco_gebhardt@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "marco-gebhardt@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 1,
+    "name": "Andreas Hooge",
+    "email": "andreas.hooge@gebhardt-group.com",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "andreas.hooge@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "a.hooge@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "andreashooge@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "andreas_hooge@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "andreas-hooge@gebhardt-group.com",
+        "status": "blocked",
+        "detail": "gebhardtgroup-com02b.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 2,
+    "name": "Dr.-Ing. Pietro de Michieli",
+    "email": "pietro.demichieli@aumund.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "pietro.demichieli@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "pietro.michieli@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "p.michieli@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "pietromichieli@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "pietro_michieli@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      }
+    ]
+  },
+  {
+    "nr": 2,
+    "name": "Reiner Furthmann",
+    "email": "reiner.furthmann@aumund.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "reiner.furthmann@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "r.furthmann@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "reinerfurthmann@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "reiner_furthmann@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      },
+      {
+        "email": "reiner-furthmann@aumund.com",
+        "status": "ok",
+        "detail": "mailgate.aumund.de: 250"
+      }
+    ]
+  },
+  {
+    "nr": 3,
+    "name": "Michael Fuchshuber",
+    "email": "michael.fuchshuber@stiwa.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "michael.fuchshuber@stiwa.com",
+        "status": "ok",
+        "detail": "email.stiwa.com: 250"
+      },
+      {
+        "email": "m.fuchshuber@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <m.fuchshuber@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      },
+      {
+        "email": "michaelfuchshuber@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <michaelfuchshuber@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      },
+      {
+        "email": "michael_fuchshuber@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <michael_fuchshuber@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      },
+      {
+        "email": "michael-fuchshuber@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <michael-fuchshuber@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      }
+    ]
+  },
+  {
+    "nr": 3,
+    "name": "Gerhard Berer",
+    "email": "gerhard.berer@stiwa.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "gerhard.berer@stiwa.com",
+        "status": "ok",
+        "detail": "email.stiwa.com: 250"
+      },
+      {
+        "email": "g.berer@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <g.berer@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      },
+      {
+        "email": "gerhardberer@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <gerhardberer@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      },
+      {
+        "email": "gerhard_berer@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <gerhard_berer@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      },
+      {
+        "email": "gerhard-berer@stiwa.com",
+        "status": "fail",
+        "detail": "email.stiwa.com: 550 5.1.1 <gerhard-berer@stiwa.com>... User unknown",
+        "reason": "user_unknown"
+      }
+    ]
+  },
+  {
+    "nr": 4,
+    "name": "Wolfgang Hillinger",
+    "email": "wolfgang.hillinger@ds-automotion.com",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "wolfgang.hillinger@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "w.hillinger@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "wolfganghillinger@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "wolfgang_hillinger@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "wolfgang-hillinger@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 4,
+    "name": "Thomas Gschwentenwein",
+    "email": "thomas.gschwentenwein@ds-automotion.com",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "thomas.gschwentenwein@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "t.gschwentenwein@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "thomasgschwentenwein@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "thomas_gschwentenwein@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "thomas-gschwentenwein@ds-automotion.com",
+        "status": "blocked",
+        "detail": "dsautomotion-com0e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 5,
+    "name": "Michael R. Bach",
+    "email": "michael.bach@kolbus.de",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "michael.bach@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "m.bach@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "michaelbach@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "michael_bach@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "michael-bach@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 5,
+    "name": "Mathias Sieckmann",
+    "email": "mathias.sieckmann@kolbus.de",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "mathias.sieckmann@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "m.sieckmann@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "mathiassieckmann@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "mathias_sieckmann@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "mathias-sieckmann@kolbus.de",
+        "status": "blocked",
+        "detail": "kolbus-de.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 6,
+    "name": "Dr. Falco Paepenmüller",
+    "email": "falco.paepenmueller@wuh-group.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "falco.paepenmueller@wuh-group.com",
+        "status": "ok",
+        "detail": "mx1.hc1025-88.eu.iphmx.com: 250"
+      },
+      {
+        "email": "falco.paepenmüller@wuh-group.com",
+        "status": "unknown",
+        "detail": "mx2.hc1025-88.eu.iphmx.com: UnicodeEncodeError"
+      },
+      {
+        "email": "falco.paepenmuller@wuh-group.com",
+        "status": "ok",
+        "detail": "mx1.hc1025-88.eu.iphmx.com: 250"
+      },
+      {
+        "email": "f.paepenmuller@wuh-group.com",
+        "status": "ok",
+        "detail": "mx1.hc1025-88.eu.iphmx.com: 250"
+      },
+      {
+        "email": "f.paepenmüller@wuh-group.com",
+        "status": "unknown",
+        "detail": "mx2.hc1025-88.eu.iphmx.com: UnicodeEncodeError"
+      }
+    ]
+  },
+  {
+    "nr": 6,
+    "name": "Dr. Björn Feldhaus",
+    "email": "bjoern.feldhaus@wuh-group.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "bjoern.feldhaus@wuh-group.com",
+        "status": "ok",
+        "detail": "mx1.hc1025-88.eu.iphmx.com: 250"
+      },
+      {
+        "email": "björn.feldhaus@wuh-group.com",
+        "status": "unknown",
+        "detail": "mx2.hc1025-88.eu.iphmx.com: UnicodeEncodeError"
+      },
+      {
+        "email": "bjorn.feldhaus@wuh-group.com",
+        "status": "ok",
+        "detail": "mx1.hc1025-88.eu.iphmx.com: 250"
+      },
+      {
+        "email": "b.feldhaus@wuh-group.com",
+        "status": "ok",
+        "detail": "mx1.hc1025-88.eu.iphmx.com: 250"
+      },
+      {
+        "email": "bjornfeldhaus@wuh-group.com",
+        "status": "ok",
+        "detail": "mx1.hc1025-88.eu.iphmx.com: 250"
+      }
+    ]
+  },
+  {
+    "nr": 7,
+    "name": "Markus Rustler",
+    "email": "markus.rustler@theegarten-pactec.de",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "markus.rustler@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "m.rustler@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "markusrustler@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "markus_rustler@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "markus-rustler@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 7,
+    "name": "Dr. Egbert Röhm",
+    "email": "e.roehm@theegarten-pactec.de",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "e.roehm@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "egbert.röhm@theegarten-pactec.de",
+        "status": "unknown",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: UnicodeEncodeError"
+      },
+      {
+        "email": "egbert.rohm@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "e.rohm@theegarten-pactec.de",
+        "status": "blocked",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "e.röhm@theegarten-pactec.de",
+        "status": "unknown",
+        "detail": "theegartenpactec-de02e.mail.protection.outlook.com: UnicodeEncodeError"
+      }
+    ]
+  },
+  {
+    "nr": 8,
+    "name": "Dr. Stefan König",
+    "email": "stefan.koenig@optima-packaging.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "stefan.koenig@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      },
+      {
+        "email": "stefan.könig@optima-packaging.com",
+        "status": "unknown",
+        "detail": "mx2.hc562-52.eu.iphmx.com: UnicodeEncodeError"
+      },
+      {
+        "email": "stefan.konig@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      },
+      {
+        "email": "s.konig@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      },
+      {
+        "email": "s.könig@optima-packaging.com",
+        "status": "unknown",
+        "detail": "mx2.hc562-52.eu.iphmx.com: UnicodeEncodeError"
+      }
+    ]
+  },
+  {
+    "nr": 8,
+    "name": "Tobias Meinikheim",
+    "email": "tobias.meinikheim@optima-packaging.com",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "tobias.meinikheim@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      },
+      {
+        "email": "t.meinikheim@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      },
+      {
+        "email": "tobiasmeinikheim@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      },
+      {
+        "email": "tobias_meinikheim@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      },
+      {
+        "email": "tobias-meinikheim@optima-packaging.com",
+        "status": "ok",
+        "detail": "mx1.hc562-52.eu.iphmx.com: 250"
+      }
+    ]
+  },
+  {
+    "nr": 9,
+    "name": "Ralf Schubert",
+    "email": "r.schubert@gerhard-schubert.de",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "r.schubert@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "ralf.schubert@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "ralfschubert@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "ralf_schubert@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "ralf-schubert@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      }
+    ]
+  },
+  {
+    "nr": 9,
+    "name": "Marcus Schindler",
+    "email": "m.schindler@gerhard-schubert.de",
+    "smtp_check": "smtp OK",
+    "tested": [
+      {
+        "email": "m.schindler@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "marcus.schindler@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "marcusschindler@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "marcus_schindler@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      },
+      {
+        "email": "marcus-schindler@gerhard-schubert.de",
+        "status": "ok",
+        "detail": "mxgate.ikomm.de: 250"
+      }
+    ]
+  },
+  {
+    "nr": 10,
+    "name": "Marco Imperatore",
+    "email": "marco.imperatore@bielomatik.de",
+    "smtp_check": "smtp UNBEKANNT — mx3.mas.t-systems-service.com: TimeoutError",
+    "tested": [
+      {
+        "email": "marco.imperatore@bielomatik.de",
+        "status": "unknown",
+        "detail": "mx3.mas.t-systems-service.com: TimeoutError"
+      },
+      {
+        "email": "m.imperatore@bielomatik.de",
+        "status": "unknown",
+        "detail": "mx3.mas.t-systems-service.com: TimeoutError"
+      },
+      {
+        "email": "marcoimperatore@bielomatik.de",
+        "status": "unknown",
+        "detail": "mx3.mas.t-systems-service.com: TimeoutError"
+      },
+      {
+        "email": "marco_imperatore@bielomatik.de",
+        "status": "unknown",
+        "detail": "mx3.mas.t-systems-service.com: TimeoutError"
+      },
+      {
+        "email": "marco-imperatore@bielomatik.de",
+        "status": "unknown",
+        "detail": "mx3.mas.t-systems-service.com: TimeoutError"
+      }
+    ]
+  },
+  {
+    "nr": 10,
+    "name": "Robin Brunzendorf",
+    "email": "robin.brunzendorf@persico.com",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "robin.brunzendorf@persico.com",
+        "status": "blocked",
+        "detail": "persico-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "r.brunzendorf@persico.com",
+        "status": "blocked",
+        "detail": "persico-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "robinbrunzendorf@persico.com",
+        "status": "blocked",
+        "detail": "persico-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "robin_brunzendorf@persico.com",
+        "status": "blocked",
+        "detail": "persico-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "robin-brunzendorf@persico.com",
+        "status": "blocked",
+        "detail": "persico-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 11,
+    "name": "Manfred Hackl",
+    "email": "manfred.hackl@erema.at",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "manfred.hackl@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "m.hackl@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "manfredhackl@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "manfred_hackl@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "manfred-hackl@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 11,
+    "name": "Markus Huber-Lindinger",
+    "email": "markus.huber-lindinger@erema.at",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "markus.huber-lindinger@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "m.huber-lindinger@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "markushuber-lindinger@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "markus_huber-lindinger@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "markus-huber-lindinger@erema.at",
+        "status": "blocked",
+        "detail": "erema-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 12,
+    "name": "Jean-Pascal Bobst",
+    "email": "gudrun.alex@bobst.com",
+    "smtp_check": "routing — SMTP IP-blockiert; Adresse plausibel",
+    "tested": [
+      {
+        "email": "jean-pascal.bobst@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "j.bobst@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "jean-pascalbobst@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "jean-pascal_bobst@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "jean-pascal-bobst@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 12,
+    "name": "Leonard Badet",
+    "email": "leonard.badet@bobst.com",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "leonard.badet@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "l.badet@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "leonardbadet@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "leonard_badet@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "leonard-badet@bobst.com",
+        "status": "blocked",
+        "detail": "bobst-com.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 13,
+    "name": "Annette Bengs",
+    "email": "annette.bengs@senning.de",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "annette.bengs@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using zen.spamhaus.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "a.bengs@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "annettebengs@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "annette_bengs@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "annette-bengs@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 13,
+    "name": "Oliver Rebstock",
+    "email": "oliver.rebstock@senning.de",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "oliver.rebstock@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "o.rebstock@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "oliverrebstock@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "oliver_rebstock@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      },
+      {
+        "email": "oliver-rebstock@senning.de",
+        "status": "blocked",
+        "detail": "mail.senning.de: 550 5.7.1 Service unavailable; client [95.90.239.240] blocked using b.barracudacentral.org",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 14,
+    "name": "Andreas Fill",
+    "email": "andreas.fill@fill.co.at",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "andreas.fill@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "a.fill@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "andreasfill@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "andreas_fill@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "andreas-fill@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  },
+  {
+    "nr": 14,
+    "name": "Alois Wiesinger",
+    "email": "alois.wiesinger@fill.co.at",
+    "smtp_check": "smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",
+    "tested": [
+      {
+        "email": "alois.wiesinger@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "a.wiesinger@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "aloiswiesinger@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "alois_wiesinger@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      },
+      {
+        "email": "alois-wiesinger@fill.co.at",
+        "status": "blocked",
+        "detail": "fill-co-at.mail.protection.outlook.com: 550 5.7.1 Service unavailable, Client host [95.90.239.240] blocked using Spamhaus. To request removal from this list see htt",
+        "reason": "ip_block"
+      }
+    ]
+  }
+]

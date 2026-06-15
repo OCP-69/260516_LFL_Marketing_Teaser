@@ -1,0 +1,502 @@
+﻿nr,segment,company,location,website,contact_type,name,role,email,email_status,email_pattern,smtp_check,email_variants_tested,source_url,source_type,alt_email,central_email,central_phone,linkedin_url,produkte_kurz,zielkunden_kurz,branche_kontext,website_fakt,hook_fakt,hook_quelle,hook_lens,pain_kundensprache,email_betreff,email_body,email_body_routing,status,remarks
+1,Intralogistik,GEBHARDT Fördertechnik GmbH,"DE, Sinsheim",https://www.gebhardt-group.com,CEO/GF,Marco Gebhardt,Geschäftsführer / Inhaber (3. Generation),marco.gebhardt@gebhardt-group.com,abgeleitet (SMTP blockiert — IP),{f}.{last}@gebhardt-group.com (s.glaesner verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",marco.gebhardt@gebhardt-group.com:blocked; m.gebhardt@gebhardt-group.com:blocked; marcogebhardt@gebhardt-group.com:blocked; marco_gebhardt@gebhardt-group.com:blocked; marco-gebhardt@gebhardt-group.com:blocked,https://pl.gebhardt-group.com/index.php/pl/imprint.html,impressum,info@gebhardt-group.com,info@gebhardt-group.com,+49 7261 939-0,,"Förderer, StoreBiter-Shuttle, AGV/AMR, Sortierer, WCS","Automotive, Food & Beverage, E-Commerce, 3PL",Kundenspezifische Lager-/Fördersysteme; Layout-Varianten pro RFQ; 4–10 Wochen Angebotszyklen (ETO).,LogiMAT 2026; US-Produktionsausbau Streetsboro (Okt 2025); familiengeführt seit 1952.,Mit dem US-Manufacturing-Ausbau und LogiMAT 2026 laufen bei Ihnen vermutlich mehr Layout- und Shuttle-Varianten parallel in der Angebotsphase — typisch für ETO-Intralogistik.,https://us.gebhardt-group.com/company/news/gebhardt-intralogistics-north-america-names-ralf-buerkle-as-chief-operating-officer.html,GF_kapazitaet_marge,Parallele Layout-/Technologievarianten binden Senior-Ingenieure in der Kalkulation,LogiMAT + US-Ausbau — bindet Engineering Ihre Angebotskapazität?,"Guten Tag Herr Gebhardt,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern in der Intralogistik und im Sondermaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Mit dem US-Manufacturing-Ausbau und LogiMAT 2026 laufen bei Ihnen vermutlich mehr Layout- und Shuttle-Varianten parallel in der Angebotsphase — typisch für ETO-Intralogistik.
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei GEBHARDT 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+1,Intralogistik,GEBHARDT Fördertechnik GmbH,"DE, Sinsheim",https://www.gebhardt-group.com,Engineering,Andreas Hooge,Head of Project Engineering,andreas.hooge@gebhardt-group.com,abgeleitet (SMTP blockiert — IP),{f}.{last}@gebhardt-group.com (s.glaesner verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",andreas.hooge@gebhardt-group.com:blocked; a.hooge@gebhardt-group.com:blocked; andreashooge@gebhardt-group.com:blocked; andreas_hooge@gebhardt-group.com:blocked; andreas-hooge@gebhardt-group.com:blocked,https://www.linkedin.com/company/gebhardt-group,linkedin,info@gebhardt-group.com,info@gebhardt-group.com,+49 7261 939-0,,"Förderer, StoreBiter-Shuttle, AGV/AMR, Sortierer, WCS","Automotive, Food & Beverage, E-Commerce, 3PL",Kundenspezifische Lager-/Fördersysteme; Layout-Varianten pro RFQ; 4–10 Wochen Angebotszyklen (ETO).,Neuer Retrofit-Geschäftsbereich; Project Engineering + Project Design in Sinsheim.,"Retrofit und Warehouse-Robotics erweitern das Portfolio — ich frage mich, ob Layout- und Steuerungsvarianten in derselben RFQ-Phase in Euro bewertet werden.",https://jobs.gebhardt-group.com/,Eng_varianten_freigabe,Parallele Layout-/Technologievarianten binden Senior-Ingenieure in der Kalkulation,Retrofit & Robotics — wo stocken Varianten vor Freigabe?,"Guten Tag Herr Hooge,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Retrofit und Warehouse-Robotics erweitern das Portfolio — ich frage mich, ob Layout- und Steuerungsvarianten in derselben RFQ-Phase in Euro bewertet werden.
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei GEBHARDT eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+2,Intralogistik,AUMUND Fördertechnik GmbH,"DE, Rheinberg",https://www.aumund.com,CEO/GF,Dr.-Ing. Pietro de Michieli,CEO / Geschäftsführer,pietro.demichieli@aumund.com,verifiziert (SMTP),{first}.{last}@aumund.com,smtp OK,pietro.demichieli@aumund.com:ok; pietro.michieli@aumund.com:ok; p.michieli@aumund.com:ok; pietromichieli@aumund.com:ok; pietro_michieli@aumund.com:ok,https://www.aumund.com/en/company/management/,firmenwebsite,info@aumund.com,info@aumund.com,+49 2843 72-0,,"Schwerlastförderer, Panzerketten, Elevatoren; Zement/Bergbau/Häfen","Zement, Bergbau, Hafen, Stahl, Chemie",Großprojekt-ETO; lange Angebotszyklen; hohe Projektmargen-Risiken bei Varianten.,Nischenführer Bulk-Material-Handling; Großprojekte weltweit in Zement/Bergbau.,"Bei Großprojekt-ETO mit langen Angebotszyklen frage ich mich, ob Layout- oder Detailvarianten Ihre Senior-Ingenieure stärker binden.",https://www.aumund.com,GF_kapazitaet_marge,Großprojekt-Angebote: wo geht Engineering-Zeit — Layout oder Detailkalkulation?,Großprojekt-Kalkulation bei AUMUND — Layout oder Detail?,"Guten Tag Herr Michieli,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern in der Intralogistik und im Sondermaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Bei Großprojekt-ETO mit langen Angebotszyklen frage ich mich, ob Layout- oder Detailvarianten Ihre Senior-Ingenieure stärker binden.
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei AUMUND 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+2,Intralogistik,AUMUND Fördertechnik GmbH,"DE, Rheinberg",https://www.aumund.com,Engineering,Reiner Furthmann,CTO,reiner.furthmann@aumund.com,verifiziert (SMTP),{first}.{last}@aumund.com,smtp OK,reiner.furthmann@aumund.com:ok; r.furthmann@aumund.com:ok; reinerfurthmann@aumund.com:ok; reiner_furthmann@aumund.com:ok; reiner-furthmann@aumund.com:ok,https://www.aumund.com/en/company/management/,firmenwebsite,info@aumund.com,info@aumund.com,+49 2843 72-0,,"Schwerlastförderer, Panzerketten, Elevatoren; Zement/Bergbau/Häfen","Zement, Bergbau, Hafen, Stahl, Chemie",Großprojekt-ETO; lange Angebotszyklen; hohe Projektmargen-Risiken bei Varianten.,Schwerlast- und Bulk-Anlagen; variantenreiche Konfigurationen pro Projekt.,Bei Schwerlast-ETO höre ich oft: Die teuersten Überraschungen entstehen vor der Freigabe — wenn Layout- und Detailvarianten nicht in derselben Kostensicht laufen.,https://www.aumund.com/en/company/management/,Eng_varianten_freigabe,Großprojekt-Angebote: wo geht Engineering-Zeit — Layout oder Detailkalkulation?,Schwerlast-Varianten — Nacharbeit oder Durchlaufzeit?,"Guten Tag Herr Furthmann,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei Schwerlast-ETO höre ich oft: Die teuersten Überraschungen entstehen vor der Freigabe — wenn Layout- und Detailvarianten nicht in derselben Kostensicht laufen.
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei AUMUND eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+3,Intralogistik,STIWA Group,"AT, Attnang-Puchheim",https://www.stiwa.com,CEO/GF,Michael Fuchshuber,CEO STIWA Automation,michael.fuchshuber@stiwa.com,verifiziert (SMTP),{first}.{last}@stiwa.com (Website verifiziert),smtp OK,michael.fuchshuber@stiwa.com:ok; m.fuchshuber@stiwa.com:fail; michaelfuchshuber@stiwa.com:fail; michael_fuchshuber@stiwa.com:fail; michael-fuchshuber@stiwa.com:fail,https://www.stiwa.com/en/manufacturing/contact,firmenwebsite,office@stiwa.com,office@stiwa.com,+43 7674 6600-0,,"FAST-Montagezellen, Linear-Transfer, Material Handling","Automotive, Medical Devices, Electronics",Sonderzellen pro Kunde; ETO-Montageautomation.,FAST-Montagezellen; KI-gestützte Montageautomation; ~265 MA in AT.,Jede Sonderzelle ist ein Unikat — rutschen frühere Projektdaten bei neuen RFQs wirklich in die Kalkulation?,https://www.stiwa.com,GF_kapazitaet_marge,Jede Sonderzelle neu kalkuliert — Muster aus früheren Projekten nutzbar?,Sonderzellen-Kalkulation bei STIWA — Daten oder Neuaufbau?,"Guten Tag Herr Fuchshuber,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern in der Intralogistik und im Sondermaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Jede Sonderzelle ist ein Unikat — rutschen frühere Projektdaten bei neuen RFQs wirklich in die Kalkulation?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei STIWA 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+3,Intralogistik,STIWA Group,"AT, Attnang-Puchheim",https://www.stiwa.com,Engineering,Gerhard Berer,Bereichsleiter Engineering,gerhard.berer@stiwa.com,verifiziert (SMTP),{first}.{last}@stiwa.com (Website verifiziert),smtp OK,gerhard.berer@stiwa.com:ok; g.berer@stiwa.com:fail; gerhardberer@stiwa.com:fail; gerhard_berer@stiwa.com:fail; gerhard-berer@stiwa.com:fail,https://www.linkedin.com/in/gerhard-berer-656370150,linkedin,office@stiwa.com,office@stiwa.com,+43 7674 6600-0,,"FAST-Montagezellen, Linear-Transfer, Material Handling","Automotive, Medical Devices, Electronics",Sonderzellen pro Kunde; ETO-Montageautomation.,Engineering für Montageautomation; Bereichsleitung seit 2010.,Bei FAST-Zellen: Wo verlieren Sie mehr Zeit — Varianten durchrechnen oder auf Einkauf/Kalkulation warten?,https://www.linkedin.com/in/gerhard-berer-656370150,Eng_varianten_freigabe,Jede Sonderzelle neu kalkuliert — Muster aus früheren Projekten nutzbar?,FAST-Zellen — Varianten vor Freigabe bei STIWA?,"Guten Tag Herr Berer,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei FAST-Zellen: Wo verlieren Sie mehr Zeit — Varianten durchrechnen oder auf Einkauf/Kalkulation warten?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei STIWA eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+4,Intralogistik,DS Automotion GmbH,"AT, Linz",https://www.ds-automotion.com,CEO/GF,Wolfgang Hillinger,Geschäftsführer,wolfgang.hillinger@ds-automotion.com,abgeleitet (SMTP blockiert — IP),{first}.{last}@ds-automotion.com,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",wolfgang.hillinger@ds-automotion.com:blocked; w.hillinger@ds-automotion.com:blocked; wolfganghillinger@ds-automotion.com:blocked; wolfgang_hillinger@ds-automotion.com:blocked; wolfgang-hillinger@ds-automotion.com:blocked,https://www.ds-automotion.com/en-us/imprint/,impressum,info@ds-automotion.com,info@ds-automotion.com,+43 732 7646-0,,"Heavy-Duty AGV, Flottensteuerung; Automotive/Industrie","Automotive OEM, Industrie, Logistik",AGV-Flotten ETO; SSI-Schäfer-Ökosystem; kundenspezifische Fahrzeugvarianten.,SSI-Schäfer-Tochter; Schwerlast-AGV aus Linz; Navigation/Steuerung in-house.,Kundenspezifische AGV-Flotten mit variantenreicher Konfiguration — limitiert das Angebotsvolumen Kapazität oder Marge?,https://www.ds-automotion.com,GF_kapazitaet_marge,Kundenspezifische AGV-Flotten — Kostensicht der Varianten vor Freigabe?,AGV-Flotten-RFQs — Kapazität oder Marge bei DS Automotion?,"Guten Tag Herr Hillinger,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern in der Intralogistik und im Sondermaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Kundenspezifische AGV-Flotten mit variantenreicher Konfiguration — limitiert das Angebotsvolumen Kapazität oder Marge?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei DS 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+4,Intralogistik,DS Automotion GmbH,"AT, Linz",https://www.ds-automotion.com,Engineering,Thomas Gschwentenwein,CTO / Bereichsleiter Technologie & Entwicklung,thomas.gschwentenwein@ds-automotion.com,abgeleitet (SMTP blockiert — IP),{first}.{last}@ds-automotion.com,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",thomas.gschwentenwein@ds-automotion.com:blocked; t.gschwentenwein@ds-automotion.com:blocked; thomasgschwentenwein@ds-automotion.com:blocked; thomas_gschwentenwein@ds-automotion.com:blocked; thomas-gschwentenwein@ds-automotion.com:blocked,https://www.ds-automotion.com/en-us/company/about-us/,firmenwebsite,info@ds-automotion.com,info@ds-automotion.com,+43 732 7646-0,,"Heavy-Duty AGV, Flottensteuerung; Automotive/Industrie","Automotive OEM, Industrie, Logistik",AGV-Flotten ETO; SSI-Schäfer-Ökosystem; kundenspezifische Fahrzeugvarianten.,Schwerlast-AGV-Entwicklung; kundenspezifische Fahrzeug- und Flottenvarianten.,Bei AGV-ETO: Trifft Nacharbeit nach Freigabe zu — oder stockt die Durchlaufzeit der Varianten in der Konstruktion?,https://www.ds-automotion.com,Eng_varianten_freigabe,Kundenspezifische AGV-Flotten — Kostensicht der Varianten vor Freigabe?,AGV-Varianten — Freigabe oder Nacharbeit bei Ihnen?,"Guten Tag Herr Gschwentenwein,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei AGV-ETO: Trifft Nacharbeit nach Freigabe zu — oder stockt die Durchlaufzeit der Varianten in der Konstruktion?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei DS eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+5,Packaging,KOLBUS Group GmbH,"DE, Rahden",https://www.kolbus.de,CEO/GF,Michael R. Bach,CEO (seit Jan 2026),michael.bach@kolbus.de,abgeleitet (SMTP blockiert — IP),{First}.{Last}@kolbus.de (Markus.Dammann verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",michael.bach@kolbus.de:blocked; m.bach@kolbus.de:blocked; michaelbach@kolbus.de:blocked; michael_bach@kolbus.de:blocked; michael-bach@kolbus.de:blocked,https://kolbus.com/de/unternehmen/news/news/new-management-team-strengthens-kolbus-group-gmbh-in-rahden,presse,info@kolbus.de,info@kolbus.de,+49 5771 71-0,,"Case-Maker Wellpappe, Buchbindung, Digital Workflow","Wellpappen-Converter, Print, Luxury Packaging","Verpackungsmaschinenbau (V): PPWR, Formatwechsel, FMCG-Tender.",Neues 4-köpfiges GL-Team seit Jan 2026; Max Valier Holding; Fokus Wellpappe/Print.,Mit neuem CEO und frischem GL-Team: Ist Kalkulationswissen für Wellpappen-Varianten institutionalisiert — oder noch in Köpfen gebunden?,https://kolbus.com/de/unternehmen/news/,GF_kapazitaet_marge,Nach Restrukturierung: Kalkulationswissen institutionalisiert oder in Köpfen?,Neues GL-Team Kolbus — wo sitzt Kalkulationswissen?,"Guten Tag Herr Bach,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Mit neuem CEO und frischem GL-Team: Ist Kalkulationswissen für Wellpappen-Varianten institutionalisiert — oder noch in Köpfen gebunden?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei KOLBUS 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+5,Packaging,KOLBUS Group GmbH,"DE, Rahden",https://www.kolbus.de,Engineering,Mathias Sieckmann,CCO & CTO (Geschäftsleitung),mathias.sieckmann@kolbus.de,abgeleitet (SMTP blockiert — IP),{First}.{Last}@kolbus.de (Markus.Dammann verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",mathias.sieckmann@kolbus.de:blocked; m.sieckmann@kolbus.de:blocked; mathiassieckmann@kolbus.de:blocked; mathias_sieckmann@kolbus.de:blocked; mathias-sieckmann@kolbus.de:blocked,https://www.thepackagingportal.com/industry-news/new-senior-management-team-at-kolbus/,presse,info@kolbus.de,info@kolbus.de,+49 5771 71-0,,"Case-Maker Wellpappe, Buchbindung, Digital Workflow","Wellpappen-Converter, Print, Luxury Packaging","Verpackungsmaschinenbau (V): PPWR, Formatwechsel, FMCG-Tender.",Case-Maker und Buchbinderei; variantenreiche Maschinenkonfigurationen.,Bei Wellpappen-/Print-Maschinen: Werden Format- und Materialvarianten vor oder nach der Freigabe in derselben Kostensicht bewertet?,https://kolbus.com,Eng_varianten_freigabe,Nach Restrukturierung: Kalkulationswissen institutionalisiert oder in Köpfen?,Wellpappen-Varianten — vor oder nach Freigabe kalkuliert?,"Guten Tag Herr Sieckmann,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei Wellpappen-/Print-Maschinen: Werden Format- und Materialvarianten vor oder nach der Freigabe in derselben Kostensicht bewertet?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei KOLBUS eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+6,Packaging,Windmöller & Hölscher KG,"DE, Lengerich",https://www.wh.group,CEO/GF,Dr. Falco Paepenmüller,CEO (vormals CTO),falco.paepenmueller@wuh-group.com,verifiziert (SMTP),{First}.{Last}@wuh-group.com,smtp OK,falco.paepenmueller@wuh-group.com:ok; falco.paepenmüller@wuh-group.com:unknown; falco.paepenmuller@wuh-group.com:ok; f.paepenmuller@wuh-group.com:ok; f.paepenmüller@wuh-group.com:unknown,https://www.wh.group/de/unternehmen/w_h_group/,firmenwebsite,info@wuh-group.com,info@wuh-group.com,+49 5481 14-0,,"Blown Film, Flexodruck, Beutelmaschinen, FILMATIC-Linien","Flexible Packaging Converter, FMCG, Filmhersteller","Verpackung (V): Paper-based flexible packaging, PPWR, Folie→Papier.",Paper-based flexible packaging (PPWR); Technology Center Lengerich; ~3.400 MA.,Materialumstellung Folie→Papier treibt neue Maschinenvarianten — rutschen FMCG-Specs und PPWR früher in Ihre Angebotsphase?,https://www.wh.group/de/unternehmen/w_h_group/,GF_kapazitaet_marge,Materialumstellung im Angebot — Kostenauswirkung der Maschinenvariante früh sichtbar?,Folie→Papier & PPWR — früher in der W&H-Kalkulation?,"Guten Tag Herr Paepenmüller,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Materialumstellung Folie→Papier treibt neue Maschinenvarianten — rutschen FMCG-Specs und PPWR früher in Ihre Angebotsphase?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Windmöller 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+6,Packaging,Windmöller & Hölscher KG,"DE, Lengerich",https://www.wh.group,Engineering,Dr. Björn Feldhaus,Director R&D & Sustaining Engineering,bjoern.feldhaus@wuh-group.com,verifiziert (SMTP),{First}.{Last}@wuh-group.com,smtp OK,bjoern.feldhaus@wuh-group.com:ok; björn.feldhaus@wuh-group.com:unknown; bjorn.feldhaus@wuh-group.com:ok; b.feldhaus@wuh-group.com:ok; bjornfeldhaus@wuh-group.com:ok,https://www.linkedin.com/in/dr-bj%C3%B6rn-feldhaus-4b4327153,linkedin,info@wuh-group.com,info@wuh-group.com,+49 5481 14-0,,"Blown Film, Flexodruck, Beutelmaschinen, FILMATIC-Linien","Flexible Packaging Converter, FMCG, Filmhersteller","Verpackung (V): Paper-based flexible packaging, PPWR, Folie→Papier.",R&D Flexodruck/Extrusion; technotrans-Partnerschaft Farbversorgung Flexodruck.,Bei Flexo-/Extrusions-Varianten: Startet jede Sonderanfrage trotz vorhandener CAD-Daten fast bei Null?,https://www.wirtschaft-aktuell.de/news/technotrans-und-wh-vertiefen-partnerschaft,Eng_varianten_freigabe,Materialumstellung im Angebot — Kostenauswirkung der Maschinenvariante früh sichtbar?,Flexo-R&D — Datenschatz oder Neuaufbau pro RFQ?,"Guten Tag Herr Feldhaus,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei Flexo-/Extrusions-Varianten: Startet jede Sonderanfrage trotz vorhandener CAD-Daten fast bei Null?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Windmöller eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+7,Packaging,Theegarten-Pactec GmbH & Co. KG,"DE, Dresden",https://www.theegarten-pactec.de,CEO/GF,Markus Rustler,Geschäftsführer / interpack President,markus.rustler@theegarten-pactec.de,abgeleitet (SMTP blockiert — IP),{f}.{last}@theegarten-pactec.de (d.schibur verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",markus.rustler@theegarten-pactec.de:blocked; m.rustler@theegarten-pactec.de:blocked; markusrustler@theegarten-pactec.de:blocked; markus_rustler@theegarten-pactec.de:blocked; markus-rustler@theegarten-pactec.de:blocked,https://www.theegarten-pactec.de/en/impressum/,impressum,pactec@theegarten-pactec.de,pactec@theegarten-pactec.de,+49 351 2573 0,,"High-Speed Süßwaren-Wrapper, Servo-Plattformen, FPC6","Ferrero, Lindt, Mars, Mondelez, FMCG Confectionery","Verpackung (V): Export 95%, Formatvarianten, RFQ nach interpack.",interpack 2026 FPC6 Flow; Robert Berge verstärkt GL ab Jun 2026; Nachfolge Röhm 2028.,Nach interpack 2026 und der FPC6-Vorstellung laufen bei Ihnen vermutlich parallele Süßwaren-RFQs — bindet Variantenkalkulation Senior-Ingenieure?,https://packaging-journal.de/en/theegarten-pactec-expands-its-management-team/,GF_kapazitaet_marge,Parallele Süßwaren-RFQs — Engineering in der Kalkulation?,Nach interpack — RFQ-Welle und Engineering-Kapazität?,"Guten Tag Herr Rustler,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Nach interpack 2026 und der FPC6-Vorstellung laufen bei Ihnen vermutlich parallele Süßwaren-RFQs — bindet Variantenkalkulation Senior-Ingenieure?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Theegarten-Pactec 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+7,Packaging,Theegarten-Pactec GmbH & Co. KG,"DE, Dresden",https://www.theegarten-pactec.de,Engineering,Dr. Egbert Röhm,Geschäftsführer Technologie & Produktion,e.roehm@theegarten-pactec.de,abgeleitet (SMTP blockiert — IP),{f}.{last}@theegarten-pactec.de (d.schibur verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",e.roehm@theegarten-pactec.de:blocked; egbert.röhm@theegarten-pactec.de:unknown; egbert.rohm@theegarten-pactec.de:blocked; e.rohm@theegarten-pactec.de:blocked; e.röhm@theegarten-pactec.de:unknown,https://www.theegarten-pactec.de/en/impressum/,impressum,pactec@theegarten-pactec.de,pactec@theegarten-pactec.de,+49 351 2573 0,,"High-Speed Süßwaren-Wrapper, Servo-Plattformen, FPC6","Ferrero, Lindt, Mars, Mondelez, FMCG Confectionery","Verpackung (V): Export 95%, Formatvarianten, RFQ nach interpack.",GF Technologie/Produktion; strukturierte Nachfolge bis 2028; Export ~95%.,Bei High-Speed-Linien: Wo verlieren Sie mehr Zeit — Formatvarianten durchrechnen oder auf Kalkulation warten?,https://www.confectioneryproduction.com/news/58097/,Eng_varianten_freigabe,Parallele Süßwaren-RFQs — Engineering in der Kalkulation?,High-Speed-Varianten — Durchlaufzeit oder Nacharbeit?,"Guten Tag Herr Röhm,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei High-Speed-Linien: Wo verlieren Sie mehr Zeit — Formatvarianten durchrechnen oder auf Kalkulation warten?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Theegarten-Pactec eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+8,Packaging,Optima Packaging Group GmbH,"DE, Schwäbisch Hall",https://www.optima-packaging.com,CEO/GF,Dr. Stefan König,CEO (seit Apr 2024),stefan.koenig@optima-packaging.com,verifiziert (SMTP),{first}.{last}@optima-packaging.com,smtp OK,stefan.koenig@optima-packaging.com:ok; stefan.könig@optima-packaging.com:unknown; stefan.konig@optima-packaging.com:ok; s.konig@optima-packaging.com:ok; s.könig@optima-packaging.com:unknown,https://www.optima-packaging.com/en/newsroom/press/press-releases/dr.-stefan-koenig-is-the-new-ceo-of-the-optima-group,presse,info@optima-packaging.com,info@optima-packaging.com,+49 791 9495-0,,"Pharma/Cosmetics/Consumer-Linien, Serialization, Digital Twin, AI","Pfizer, Roche, P&G, Henkel, L'Oréal",Verpackung (V): GMP + PPWR; Engineering Change Orders.,CEO-Wechsel 2024; interpack 2026 AI/Digital Twin; Fiber-Packaging; ~3.400 MA.,GMP-Varianten und PPWR rutschen bei Pharma-/Consumer-Linien oft früher in die Angebotsphase — institutionalisiert oder in Köpfen?,https://www.optima-packaging.com/en/newsroom/press/,GF_kapazitaet_marge,GMP-Varianten vor Freigabe in belastbare Kosten?,interpack-Nachlese Optima — GMP-Varianten früher in RFQs?,"Guten Tag Herr König,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+GMP-Varianten und PPWR rutschen bei Pharma-/Consumer-Linien oft früher in die Angebotsphase — institutionalisiert oder in Köpfen?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Optima 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+8,Packaging,Optima Packaging Group GmbH,"DE, Schwäbisch Hall",https://www.optima-packaging.com,Engineering,Tobias Meinikheim,Director of Engineering,tobias.meinikheim@optima-packaging.com,verifiziert (SMTP),{first}.{last}@optima-packaging.com,smtp OK,tobias.meinikheim@optima-packaging.com:ok; t.meinikheim@optima-packaging.com:ok; tobiasmeinikheim@optima-packaging.com:ok; tobias_meinikheim@optima-packaging.com:ok; tobias-meinikheim@optima-packaging.com:ok,https://www.linkedin.com/in/tobias-meinikheim-63b66217b,linkedin,info@optima-packaging.com,info@optima-packaging.com,+49 791 9495-0,,"Pharma/Cosmetics/Consumer-Linien, Serialization, Digital Twin, AI","Pfizer, Roche, P&G, Henkel, L'Oréal",Verpackung (V): GMP + PPWR; Engineering Change Orders.,Director Engineering seit 2024; Digital Twin/AI auf interpack 2026.,Bei GMP-Linien: Trifft Nacharbeit nach Freigabe zu — oder stockt die Varianten-Durchlaufzeit in der Konstruktion?,https://www.optima-packaging.com,Eng_varianten_freigabe,GMP-Varianten vor Freigabe in belastbare Kosten?,GMP-Engineering — Freigabe oder Nacharbeit als Engpass?,"Guten Tag Herr Meinikheim,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei GMP-Linien: Trifft Nacharbeit nach Freigabe zu — oder stockt die Varianten-Durchlaufzeit in der Konstruktion?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Optima eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+9,Packaging,Gerhard Schubert GmbH,"DE, Crailsheim",https://www.schubert.group,CEO/GF,Ralf Schubert,Geschäftsführer (Technologie-Division),r.schubert@gerhard-schubert.de,verifiziert (SMTP),{f}.{last}@gerhard-schubert.de,smtp OK,r.schubert@gerhard-schubert.de:ok; ralf.schubert@gerhard-schubert.de:ok; ralfschubert@gerhard-schubert.de:ok; ralf_schubert@gerhard-schubert.de:ok; ralf-schubert@gerhard-schubert.de:ok,https://www.schubert.group/en/imprint/,impressum,info@schubert.group,info@schubert.group,+49 7951 400-0,,"TLM Pick-and-Place, F4-Roboter, Schubert-Pharma, Vision/AI","Food, Pharma, Cosmetics, Medical Devices","Verpackung (V): Modulare Linien, hohe Variantenkomplexität.",Schubert-Pharma Expansion; modulares TLM-System; AI Vision.,Modulare TLM-Linien erzeugen hohe Variantenvielfalt — limitiert RFQ-Tempo Kapazität oder Marge pro Auftrag?,https://www.schubert.group,GF_kapazitaet_marge,Modulare Linien = Variantenvielfalt — RFQ-Tempo vs. Engineering-Kapazität?,TLM-Varianten — RFQ-Tempo oder Marge limitiert?,"Guten Tag Herr Schubert,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Modulare TLM-Linien erzeugen hohe Variantenvielfalt — limitiert RFQ-Tempo Kapazität oder Marge pro Auftrag?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Gerhard 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+9,Packaging,Gerhard Schubert GmbH,"DE, Crailsheim",https://www.schubert.group,Engineering,Marcus Schindler,Bereichsleiter Konstruktion,m.schindler@gerhard-schubert.de,verifiziert (SMTP),{f}.{last}@gerhard-schubert.de,smtp OK,m.schindler@gerhard-schubert.de:ok; marcus.schindler@gerhard-schubert.de:ok; marcusschindler@gerhard-schubert.de:ok; marcus_schindler@gerhard-schubert.de:ok; marcus-schindler@gerhard-schubert.de:ok,https://www.schubert.group/en/group/locations/,firmenwebsite,info@schubert.group,info@schubert.group,+49 7951 400-0,,"TLM Pick-and-Place, F4-Roboter, Schubert-Pharma, Vision/AI","Food, Pharma, Cosmetics, Medical Devices","Verpackung (V): Modulare Linien, hohe Variantenkomplexität.",Pick-and-Place TLM; variantenreiche Food-/Pharma-Linien.,Bei modularen Linien: Werden Material- und Formatvarianten vor der Freigabe in derselben Kostensicht bewertet?,https://www.schubert.group,Eng_varianten_freigabe,Modulare Linien = Variantenvielfalt — RFQ-Tempo vs. Engineering-Kapazität?,Modulare Linien — Kostensicht vor Freigabe?,"Guten Tag Herr Schindler,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei modularen Linien: Werden Material- und Formatvarianten vor der Freigabe in derselben Kostensicht bewertet?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Gerhard eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+10,Packaging,Bielomatik GmbH (Persico Group),"DE, Römerstein",https://www.bielomatik.com,CEO/GF,Marco Imperatore,Geschäftsführer,marco.imperatore@bielomatik.de,abgeleitet (mittel),{first}.{last}@bielomatik.de,smtp UNBEKANNT — mx3.mas.t-systems-service.com: TimeoutError,marco.imperatore@bielomatik.de:unknown; m.imperatore@bielomatik.de:unknown; marcoimperatore@bielomatik.de:unknown; marco_imperatore@bielomatik.de:unknown; marco-imperatore@bielomatik.de:unknown,https://www.bielomatik.com/en/imprint.html,impressum,info@bielomatik.de,info@bielomatik.de,+49 7382 9427-0,,Plastic Joining Systems (Paper-Sparte → BW Papersystems seit 2015),"Automotive, Industrial Joining",Hinweis: Paper-Converting an BW Papersystems verkauft; aktuell Plastic Welding.,"Paper-Sparte 2015 an BW Papersystems; heute Plastic Joining unter Persico, Römerstein.",Nach dem Verkauf der Paper-Sparte an BW Papersystems: Wie kalkulieren Sie heute variantenreiche Joining-Systeme — institutionalisiert oder projektweise?,https://www.barrywehmiller.com/news/company-news/release/barry-wehmiller-acquires-bielomatik-paper-processing-group,GF_kapazitaet_marge,Nach Restrukturierung: variantenreiche Angebote — Kalkulation institutionalisiert?,Nach Paper-Sparten-Verkauf — wie läuft Kalkulation heute?,"Guten Tag Herr Imperatore,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Nach dem Verkauf der Paper-Sparte an BW Papersystems: Wie kalkulieren Sie heute variantenreiche Joining-Systeme — institutionalisiert oder projektweise?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Bielomatik 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+10,Packaging,Bielomatik GmbH (Persico Group),"DE, Römerstein",https://www.bielomatik.com,Engineering,Robin Brunzendorf,Key Account Manager / techn. Ansprechpartner Europa,robin.brunzendorf@persico.com,abgeleitet (SMTP blockiert — IP),{first}.{last}@bielomatik.de,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",robin.brunzendorf@persico.com:blocked; r.brunzendorf@persico.com:blocked; robinbrunzendorf@persico.com:blocked; robin_brunzendorf@persico.com:blocked; robin-brunzendorf@persico.com:blocked,https://www.bielomatik.com/en/contact.html,firmenwebsite,info@bielomatik.de,info@bielomatik.de,+49 7382 9427-0,,Plastic Joining Systems (Paper-Sparte → BW Papersystems seit 2015),"Automotive, Industrial Joining",Hinweis: Paper-Converting an BW Papersystems verkauft; aktuell Plastic Welding.,Persico-Gruppe; Plastic Welding Service: service-plasticwelding@bielomatik.de.,Bei kundenspezifischen Joining-Lösungen: Varianten vor Freigabe in belastbare Kosten — oder Nacharbeit?,https://www.bielomatik.com/en/contact.html,Eng_varianten_freigabe,Nach Restrukturierung: variantenreiche Angebote — Kalkulation institutionalisiert?,Joining-Varianten — Freigabe oder Nacharbeit?,"Guten Tag Herr Brunzendorf,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei kundenspezifischen Joining-Lösungen: Varianten vor Freigabe in belastbare Kosten — oder Nacharbeit?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Bielomatik eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,Eng-Kontakt über Persico-Gruppe (verifizierte Domain persico.com)
+11,Packaging,EREMA Engineering Recycling Maschinen,"AT, Ansfelden",https://www.erema.com,CEO/GF,Manfred Hackl,CEO / Geschäftsführer,manfred.hackl@erema.at,abgeleitet (SMTP blockiert — IP),{first}.{last}@erema.at / @erema.com,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",manfred.hackl@erema.at:blocked; m.hackl@erema.at:blocked; manfredhackl@erema.at:blocked; manfred_hackl@erema.at:blocked; manfred-hackl@erema.at:blocked,https://www.erema.com/de/impressum/,impressum,erema@erema.at,erema@erema.at,+43 732 3190-0,,"INTAREMA/VACUREMA PCR-Recycling, Film-Linien, PURE LOOP","Packaging Producer, Recycler, FMCG mit PCR-Zielen","Verpackung/Recycling (V): PPWR, PCR-Anteil als Kundenspec.",Marktführer Plastic Recycling; Way2K/K 2025 Edvanced Recycling; PPWR-Treiber.,PCR-Anteil als Kundenspec treibt Maschinenvarianten — rutschen diese früher in Ihre Angebotsphase als früher?,https://edvanced.erema.com/en/way2k-2025-interview-with-manfred-hackl/,GF_kapazitaet_marge,PCR-Anteil als Kundenspec — Maschinenvariante im Design kalkulierbar?,PPWR & PCR-Specs — früher in EREMA-Angeboten?,"Guten Tag Herr Hackl,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+PCR-Anteil als Kundenspec treibt Maschinenvarianten — rutschen diese früher in Ihre Angebotsphase als früher?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei EREMA 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+11,Packaging,EREMA Engineering Recycling Maschinen,"AT, Ansfelden",https://www.erema.com,Engineering,Markus Huber-Lindinger,Geschäftsführer / Technik,markus.huber-lindinger@erema.at,abgeleitet (SMTP blockiert — IP),{first}.{last}@erema.at / @erema.com,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",markus.huber-lindinger@erema.at:blocked; m.huber-lindinger@erema.at:blocked; markushuber-lindinger@erema.at:blocked; markus_huber-lindinger@erema.at:blocked; markus-huber-lindinger@erema.at:blocked,https://www.erema.com/de/impressum/,impressum,erema@erema.at,erema@erema.at,+43 732 3190-0,,"INTAREMA/VACUREMA PCR-Recycling, Film-Linien, PURE LOOP","Packaging Producer, Recycler, FMCG mit PCR-Zielen","Verpackung/Recycling (V): PPWR, PCR-Anteil als Kundenspec.","Drei GF (Hackl, Huber-Lindinger, Wolfsgruber); variantenreiche Recycling-Linien.",Bei PCR-Recycling-Linien: Werden Materialmix-Varianten vor der Freigabe in derselben Kostensicht bewertet?,https://www.erema.com/de/impressum/,Eng_varianten_freigabe,PCR-Anteil als Kundenspec — Maschinenvariante im Design kalkulierbar?,Materialmix-Varianten — vor Freigabe kalkuliert?,"Guten Tag Herr Huber-Lindinger,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei PCR-Recycling-Linien: Werden Materialmix-Varianten vor der Freigabe in derselben Kostensicht bewertet?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei EREMA eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+12,Packaging,Bobst Group SA,"CH, Mex",https://www.bobst.com,CEO/GF,Jean-Pascal Bobst,CEO Bobst Group,gudrun.alex@bobst.com,routing — Presse/Zentrale,{first}.{last}@bobst.com,routing — SMTP IP-blockiert; Adresse plausibel,jean-pascal.bobst@bobst.com:blocked; j.bobst@bobst.com:blocked; jean-pascalbobst@bobst.com:blocked; jean-pascal_bobst@bobst.com:blocked; jean-pascal-bobst@bobst.com:blocked,https://bobst.prezly.com/,presse,info@bobst.com,info@bobst.com,,,"Folding Carton, Corrugated, Flexible Packaging Machinery","Converter, Brand Owner, Global Packaging",Verpackung (V) Konzern: Konfigurationsvielfalt; Presse-Routing.,Inventor Award 2025; Digital/IoT; Sustainability; CHF 1.6B Umsatz.,Bei Konfigurationsvielfalt über Divisionen: Bottleneck Angebot oder Engineering-Kapazität?,https://bobst.prezly.com/bobst-inventor-award-2025-recognizes-exceptional-employee-drive-and-innovation,GF_kapazitaet_marge,Konfigurationsvielfalt — Bottleneck Angebot vs. Engineering?,Bobst 2026 — Angebots- oder Engineering-Engpass?,"Guten Tag Herr Bobst,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Bei Konfigurationsvielfalt über Divisionen: Bottleneck Angebot oder Engineering-Kapazität?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Bobst 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com","Guten Tag,
+
+könnten Sie diese Nachricht bitte an Jean-Pascal Bobst (CEO Bobst Group) weiterleiten?
+
+---
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Bei Konfigurationsvielfalt über Divisionen: Bottleneck Angebot oder Engineering-Kapazität?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Bobst 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+---
+
+Vielen Dank für die Weiterleitung.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",routing_erforderlich,
+12,Packaging,Bobst Group SA,"CH, Mex",https://www.bobst.com,Engineering,Leonard Badet,Chief Technology Officer,leonard.badet@bobst.com,abgeleitet (SMTP blockiert — IP),{first}.{last}@bobst.com,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",leonard.badet@bobst.com:blocked; l.badet@bobst.com:blocked; leonardbadet@bobst.com:blocked; leonard_badet@bobst.com:blocked; leonard-badet@bobst.com:blocked,https://www.linkedin.com/in/leonard-badet/en,linkedin,info@bobst.com,info@bobst.com,,,"Folding Carton, Corrugated, Flexible Packaging Machinery","Converter, Brand Owner, Global Packaging",Verpackung (V) Konzern: Konfigurationsvielfalt; Presse-Routing.,CTO seit 2023; >500 R&D-Mitarbeiter global; Digital Transformation.,Konfigurationsvarianten in Folding Carton/Flexible: Nacharbeit nach Freigabe oder Varianten-Durchlaufzeit?,https://bobst.prezly.com/,Eng_varianten_freigabe,Konfigurationsvielfalt — Bottleneck Angebot vs. Engineering?,R&D-Konfigurationen — Freigabe oder Durchlaufzeit?,"Guten Tag Herr Badet,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Konfigurationsvarianten in Folding Carton/Flexible: Nacharbeit nach Freigabe oder Varianten-Durchlaufzeit?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Bobst eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+13,Packaging,Senning GmbH,"DE, Bremen",https://www.senning.de,CEO/GF,Annette Bengs,Geschäftsführerin (3. Generation),annette.bengs@senning.de,abgeleitet (SMTP blockiert — IP),{first}.{last}@senning.de,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",annette.bengs@senning.de:blocked; a.bengs@senning.de:blocked; annettebengs@senning.de:blocked; annette_bengs@senning.de:blocked; annette-bengs@senning.de:blocked,https://www.senning.de/impressum,impressum,info@senning.de,info@senning.de,+49 421 694620,,"Tissue/Paper Verpackungsmaschinen, ETO","Confectionery, Tobacco, Tissue, Food",Verpackung (V): Optima-Gruppe; ~50 MA; 85% Export.,Optima-Gruppe seit 2020; Familienunternehmen; 85% Export Tissue/Paper.,Als familiengeführtes ETO mit ~50 MA: Bindet Kalkulation am GF/Ingenieur — oder ist das institutionalisiert?,https://www.optima-packaging.com/de/newsroom/presse/pressemitteilungen/senning-wird-teil-der-optima-unternehmensgruppe,GF_kapazitaet_marge,Kleines ETO — Kalkulation am GF/Ingenieur gebunden?,Senning als ETO — Kalkulation in Köpfen oder System?,"Guten Tag Frau Bengs,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern im Verpackungsmaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Als familiengeführtes ETO mit ~50 MA: Bindet Kalkulation am GF/Ingenieur — oder ist das institutionalisiert?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Senning 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+13,Packaging,Senning GmbH,"DE, Bremen",https://www.senning.de,Engineering,Oliver Rebstock,Geschäftsführer / Operations,oliver.rebstock@senning.de,abgeleitet (SMTP blockiert — IP),{first}.{last}@senning.de,"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",oliver.rebstock@senning.de:blocked; o.rebstock@senning.de:blocked; oliverrebstock@senning.de:blocked; oliver_rebstock@senning.de:blocked; oliver-rebstock@senning.de:blocked,https://www.senning.de/impressum,impressum,info@senning.de,info@senning.de,+49 421 694620,,"Tissue/Paper Verpackungsmaschinen, ETO","Confectionery, Tobacco, Tissue, Food",Verpackung (V): Optima-Gruppe; ~50 MA; 85% Export.,Tissue-/Paper-Verpackungsmaschinen; ETO pro Kunde; Bremen.,Bei Tissue-Linien: Varianten vor Freigabe in belastbare Kosten — oder Nacharbeit?,https://www.senning.de,Eng_varianten_freigabe,Kleines ETO — Kalkulation am GF/Ingenieur gebunden?,Tissue-Varianten — vor Freigabe kalkuliert?,"Guten Tag Herr Rebstock,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei Tissue-Linien: Varianten vor Freigabe in belastbare Kosten — oder Nacharbeit?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Senning eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+14,Packaging,Fill GmbH,"AT, Gurten",https://www.fill.co.at,CEO/GF,Andreas Fill,CEO,andreas.fill@fill.co.at,abgeleitet (SMTP blockiert — IP),{first}.{last}@fill.co.at (lehre@ verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",andreas.fill@fill.co.at:blocked; a.fill@fill.co.at:blocked; andreasfill@fill.co.at:blocked; andreas_fill@fill.co.at:blocked; andreas-fill@fill.co.at:blocked,https://www.fill.co.at,firmenwebsite,info@fill.co.at,info@fill.co.at,+43 7757 7010,,Sondermaschinenbau Metall/Kunststoff/Holz — kein klassischer Verpackungs-OEM,"Automotive, Aviation, Sport, Bau",Sondermaschinenbau (E); Hexagon-Humanoid-Partnerschaft 2026.,"EY-Award Innovationsführer; Hexagon-Humanoid-Partnerschaft 2026; 11,6% F&E-Quote.",Mit Humanoid-Partnerschaft und hoher F&E-Quote: Wo stocken kundenspezifische RFQ-Schleifen — Variantenkalkulation oder Freigabe?,https://www.fill.co.at/en/news-and-events/media/innovation-winner-from-the-innviertel-region,GF_kapazitaet_marge,ETO-Projektgeschäft — wo stocken RFQ-Schleifen?,Humanoid-Projekte Fill — RFQ-Durchlaufzeit oder Marge?,"Guten Tag Herr Fill,
+
+ich schreibe Ihnen, weil wir bei LoopForgeLab mit wenigen ETO-Herstellern in der Intralogistik und im Sondermaschinenbau den Austausch zu Kalkulation und Varianten im Design suchen — ohne IT-Großprojekt.
+
+Mit Humanoid-Partnerschaft und hoher F&E-Quote: Wo stocken kundenspezifische RFQ-Schleifen — Variantenkalkulation oder Freigabe?
+
+Aus Gesprächen mit anderen Geschäftsführern im Sondermaschinenbau höre ich oft eine Spannung — ich würde gern prüfen, ob das bei Ihnen überhaupt zutrifft:
+
+Entweder limitiert **Angebotskapazität** das Wachstum (zu viel Engineering in der Kalkulation), oder die **Marge** pro gewonnenem Auftrag (Puffer, Nachkalkulation, zu späte Kostensicht).
+
+**Was ist bei Fill 2026 der schwerere Engpass — oder liegt Ihr Fokus ganz woanders?**
+
+Eine kurze Einordnung reicht mir — ich möchte nicht ins Leere schreiben.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
+14,Packaging,Fill GmbH,"AT, Gurten",https://www.fill.co.at,Engineering,Alois Wiesinger,CTO,alois.wiesinger@fill.co.at,abgeleitet (SMTP blockiert — IP),{first}.{last}@fill.co.at (lehre@ verifiziert),"smtp IP-blockiert — Adresse plausibel, nicht verifizierbar",alois.wiesinger@fill.co.at:blocked; a.wiesinger@fill.co.at:blocked; aloiswiesinger@fill.co.at:blocked; alois_wiesinger@fill.co.at:blocked; alois-wiesinger@fill.co.at:blocked,https://www.fill.co.at,firmenwebsite,info@fill.co.at,info@fill.co.at,+43 7757 7010,,Sondermaschinenbau Metall/Kunststoff/Holz — kein klassischer Verpackungs-OEM,"Automotive, Aviation, Sport, Bau",Sondermaschinenbau (E); Hexagon-Humanoid-Partnerschaft 2026.,Sondermaschinen-ETO; hohe Variantenkomplexität; >1.000 MA.,Bei Sondermaschinen-ETO: Trifft Nacharbeit nach Freigabe zu — oder Varianten-Durchlaufzeit?,https://www.fill.co.at,Eng_varianten_freigabe,ETO-Projektgeschäft — wo stocken RFQ-Schleifen?,Sondermaschinen-Varianten — Freigabe oder Nacharbeit?,"Guten Tag Herr Wiesinger,
+
+ich gehe gezielt auf Engineering-Leitungen im Sondermaschinenbau zu — Hintergrund: wie Varianten und Kosten **vor der Freigabe** zusammenlaufen.
+
+Bei Sondermaschinen-ETO: Trifft Nacharbeit nach Freigabe zu — oder Varianten-Durchlaufzeit?
+
+In anderen ETO-Betrieben höre ich häufig: Die teuersten Überraschungen kommen nicht in der Montage selbst, sondern **vor der Freigabe** — wenn Varianten und Materialwechsel noch nicht mit derselben Kostensicht bewertet werden.
+
+**Trifft „Nacharbeit / Änderungsaufträge nach Freigabe“ bei Fill eher zu — oder ist der Engpass eher die Durchlaufzeit der Varianten in der Konstruktion?**
+
+Ich bin an Ihrer Einordnung interessiert, nicht an einem Produkt-Pitch.
+
+Beste Grüße
+Olaf Pick
+LoopForgeLab GbR
+olaf@loopforgelab.com",,recherche_fertig,
